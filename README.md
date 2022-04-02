@@ -1,2 +1,1 @@
-<!-- [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=hbouqssi)](https://github.com/mohouyizme/1337-readme) -->
-<p align="center"><img src="https://badge42.herokuapp.com/api/stats/hbouqssi?cursus=42cursus&darkmode=true"> </p>
+<p align="center"> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge.mediaplus.ma/greenbinary/hbouqssi" alt="hbouqssi's 42 stats" /></a></p>
